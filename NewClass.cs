@@ -2,6 +2,6 @@ public class NewClass
 {
     public void IspisPodataka()
     {
-        Console.WriteLine("Izmjena od prvog korisnika. ");
+        Console.WriteLine("Izmjena od drugog korisnika. ");
     }
 }
